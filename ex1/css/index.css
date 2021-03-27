@@ -3,5 +3,13 @@ body{
 }
 
 #page{
-    display: inline-block;
+    display: flex;
+    flex-direction: row;
+}
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
