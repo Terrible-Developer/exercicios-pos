@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+}
+
+#page{
+    /*display: flex;
+    flex-direction: row;*/
+}
+
+#articles{
+
+}
+
+.article{
+    width: 33%;
+    display: inline-block;
+}
+
+/*@media screen and (max-width: 50em){
+    .article{
+        width: 33%;
+    }
+}*/
+
+@media screen and (max-width: 55em){
+    .article{
+        width: 100%;
+    }
+}
+
+footer{
+    /*position: fixed;
+    left: 0;
+    bottom: 0;*/
+    margin-top: 20vh;
+    width: 100%;
+}
