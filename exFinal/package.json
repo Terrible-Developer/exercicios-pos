@@ -1,0 +1,11 @@
+{
+  "name": "jfnandopr-pos-unipar-html-css-js-atividade",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jfnandopr/jfnandopr-pos-unipar-html-css-js-atividade",
+  "author": "wyvern800 <matheusguiferreira@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "sass --watch ./scss/style.scss ./css/style.css"
+  }
+}
